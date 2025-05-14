@@ -1,0 +1,6 @@
+build
+out
+CMakeFiles
+EuroSAT
+.vscode
+model.txt
